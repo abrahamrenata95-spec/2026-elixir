@@ -1,9 +1,9 @@
-# 2026-Elixir#
+# 2026-Elixir bioinfo course
 
-* Kurzus anyagok
+## Topics
 
-# Az órán bemutatott anyagok#
+* How to download ebola-mayinga viral genome and the annotation. 
+* Then how to do an alignment
+* Visualizing data in IGV
 
-## Alcímek##
-
-*Jelenleg a markdown-t mutatom be.
+...
