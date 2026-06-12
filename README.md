@@ -1,4 +1,4 @@
-#2026-Elixir
+*2026-Elixir*
 
 *Kurzus anyagok
 
