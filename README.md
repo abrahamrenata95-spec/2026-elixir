@@ -1,9 +1,9 @@
-#2026-Elixir#
+# 2026-Elixir#
 
-*Kurzus anyagok
+* Kurzus anyagok
 
-#Az órán bemutatott anyagok#
+# Az órán bemutatott anyagok#
 
-##Alcímek##
+## Alcímek##
 
 *Jelenleg a markdown-t mutatom be.
