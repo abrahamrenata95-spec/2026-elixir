@@ -20,5 +20,6 @@ First step download the genome (automatically indexes it)
 ```
 
 second step to index the genome
-
+```
  make fastq
+ ```
